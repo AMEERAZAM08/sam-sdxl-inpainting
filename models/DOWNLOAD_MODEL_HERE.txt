@@ -1,0 +1,2 @@
+模型链接
+https://vision-poster.oss-cn-shanghai.aliyuncs.com/ashui/sam_vit_h_4b8939.pth?OSSAccessKeyId=LTAI5tSPYbksBzcmooNHCYif&Expires=3599001703148669&Signature=TYznO77DKFjGNn92SnR9RbucOlU%3D
