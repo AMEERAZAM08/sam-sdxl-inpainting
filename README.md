@@ -20,6 +20,10 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 ![ReplaceAnything Using SAM SDXL Inpainting App](imgs/model-in-gold-fashion.png)
 
+## Gradio Demo
+
+![ReplaceAnything Using SAM SDXL Inpainting App](imgs/demo.png)
+
 ## Getting Started
 
 To get started with ReplaceAnything, make sure you have the required dependencies installed. Refer to the configuration reference at [Hugging Face Spaces Config Reference](https://huggingface.co/docs/hub/spaces-config-reference) for detailed information.
