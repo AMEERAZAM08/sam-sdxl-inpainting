@@ -1,0 +1,23 @@
+dashscope
+sympy
+Pillow==9.5.0
+gradio==3.50.0
+opencv-python
+omegaconf
+sentencepiece
+easydict
+scikit-image
+git+https://github.com/facebookresearch/segment-anything.git
+torch
+torchvision
+oss2==2.17.0
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch
+git+https://github.com/huggingface/diffusers.git
+transformers
+accelerate
+ftfy
+numpy
+matplotlib
+uuid
+opencv-python
