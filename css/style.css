@@ -1,0 +1,59 @@
+
+.baselayout{
+  background: url('https://img.alicdn.com/imgextra/i1/O1CN016hd0V91ilWY5Xr24B_!!6000000004453-2-tps-2882-256.png') no-repeat;
+}
+#btn { 
+        background-color: #336699;
+        color: white; 
+}
+#recBut { 
+        background-color: #bb5252;
+        color: white; 
+        width: 30%;
+        margin: auto;
+}
+#btnSEG { 
+        background-color: #D5F3F4;
+        color: black; 
+}
+#btnCHAT { 
+        background-color: #B6DBF2;
+        color: black; 
+}
+#accordion { 
+        background-color: transparent;
+}
+#accordion1 { 
+        background-color: #ecedee;
+}
+.feedback button.selected{
+        background-color: #6699CC;
+        color: white !important; 
+}
+.feedback1 button.selected{
+        background-color: #839ab2;
+        color: white !important; 
+}
+.Tab button.selected{
+        color: red;
+        font-weight: bold;
+}
+#Image {
+        width: 80%;
+        margin:auto;
+}
+#ShowCase {
+        width: 30%;
+        flex:none !important;
+}
+
+#Input {
+        border-style:solid;
+        border-width:1px;
+        border-color:#000000
+}
+#Seg {
+        min-width: min(100px, 100%) !important;
+        width: 100%;
+        margin:auto;
+}
