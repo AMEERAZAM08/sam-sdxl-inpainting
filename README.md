@@ -14,7 +14,7 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 # ReplaceAnything Using SAM + SDXL Inpainting
 
-📚 **ReplaceAnything** is an application built using SAM (Self-Attention Module) and SDXL (Sparse Dynamic Convolutional Layer) inpainting techniques. The project allows for seamless replacement of elements in images, bringing a new level of flexibility to image editing.
+📚 **ReplaceAnything Using SAM + SDXL Inpainting** is an application built using SAM (Self-Attention Module) and SDXL (Sparse Dynamic Convolutional Layer) inpainting techniques. The project allows for seamless replacement of elements in images, bringing a new level of flexibility to image editing.
 
 ## Preview
 
