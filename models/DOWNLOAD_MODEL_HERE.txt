@@ -1,1 +1,1 @@
-https://huggingface.co/spaces/ameerazam08/SAM_SDXL_Inpainting/resolve/main/models/sam_vit_h_4b8939.pth?download=true
+https://huggingface.co/spaces/ameerazam08/SAM_SDXL_Inpainting/resolve/main/models/sam_vit_h_4b8939.pth
