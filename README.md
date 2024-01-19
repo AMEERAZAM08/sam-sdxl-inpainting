@@ -22,7 +22,7 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jmlXhiYdGdXp-zQ8wX2x6Ci1FWJ9HTuu?usp=sharing) | ReplaceAnything Using SAM + SDXL Inpainting 🚀)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jmlXhiYdGdXp-zQ8wX2x6Ci1FWJ9HTuu?usp=sharing) | ReplaceAnything Using SAM + SDXL Inpainting 🚀
 
 ## Preview
 
