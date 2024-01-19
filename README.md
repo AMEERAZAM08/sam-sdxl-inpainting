@@ -9,7 +9,7 @@ app_file: app.py
 pinned: false
 license: apache-2.0
 ---
-
+#### Big Thanks to ReplaceAnything base code from HF-Repo https://github.com/AIGCDesignGroup/ReplaceAnything
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
 # ReplaceAnything Using SAM + SDXL Inpainting
