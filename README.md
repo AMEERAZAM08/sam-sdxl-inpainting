@@ -47,14 +47,16 @@ pip install gradio==3.50.2
 Local installation:
 
 ```bash
-git clone
-cd
+git clone https://github.com/AMEERAZAM08/sam-sdxl-inpainting.git
+cd sam-sdxl-inpainting
 pip install -r requirements.txt
 ```
 
 ## Usage
 
-```python app.py```
+```
+cd src
+python app.py```
 
 
 
